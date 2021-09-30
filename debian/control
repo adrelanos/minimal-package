@@ -1,0 +1,21 @@
+## Copyright (C) 2012 - 2021 ENCRYPTED SUPPORT LP <adrelanos@whonix.org>
+## See the file COPYING for copying conditions.
+
+Source: minimal-package
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@whonix.org>
+Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Homepage: https://github.com/Whonix/minimal-package
+Vcs-Browser: https://github.com/Whonix/minimal-package
+Vcs-Git: https://github.com/Whonix/minimal-package.git
+Standards-Version: 4.5.1
+Rules-Requires-Root: no
+
+Package: minimal-package
+Architecture: all
+Depends: ${misc:Depends}
+Description: a minimal package
+ Does very little.
+ .
+ Really.

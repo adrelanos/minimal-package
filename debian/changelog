@@ -1,0 +1,11 @@
+minimal-package (3:4.9-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Sat, 11 Sep 2021 22:29:30 +0000
+
+minimal-package (3:0.1-2) unstable; urgency=low
+
+  * Initial release.
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Sun, 17 Aug 2014 17:55:59 +0000
